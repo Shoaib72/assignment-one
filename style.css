@@ -112,5 +112,35 @@ hr {
 .button-resize {
     line-height: 2%;
     text-align: center;
-    padding-top: 100px;
+    padding-top: 2px;
+}
+
+#donate-plan-text {
+    text-align: center;
+    color: black;
+    margin-top: 130px;
+    font-size: 40px;
+
+}
+
+#donate-plan-description {
+    margin-top: 40px;
+}
+
+.donate-plan-area {
+    margin-top: 80px;
+    display: flex;
+    margin-left: 18%;
+    margin-right: 17%;
+    margin-bottom: 30px;
+    padding: 30px 30px;
+}
+
+.donate-plan-box {
+    width: 30%;
+    box-shadow: 2px 2px 2px gray;
+    padding: 15px 15px;
+    border-radius: 15px;
+    background-color: rgb(226, 168, 168);
+    margin: 2px 2px;
 }
