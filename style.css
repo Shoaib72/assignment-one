@@ -144,3 +144,15 @@ hr {
     background-color: rgb(226, 168, 168);
     margin: 2px 2px;
 }
+
+.box-one {
+    background-color: aquamarine;
+}
+
+.box-two {
+    background-color: blanchedalmond;
+}
+
+.box-three {
+    background-color: gray;
+}
