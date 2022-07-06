@@ -156,3 +156,40 @@ hr {
 .box-three {
     background-color: gray;
 }
+
+.flexible-container {
+    display: flex;
+    margin-bottom: 150px;
+    margin-right: 60px;
+}
+
+.half-width {
+    margin-top: 100px;
+    width: 50%;
+    padding-left: 7%;
+    padding-top: 2%;
+
+}
+
+.half-width img {
+    width: 100%;
+}
+
+.link-button {
+    line-height: 2%;
+    text-align: center;
+    padding-top: 2px;
+}
+
+.headline-text {
+    color: black;
+    font-size: 40px;
+}
+
+.end-text {
+    margin-top: 40px;
+}
+
+.special-div {
+    margin-top: 20px;
+}
