@@ -90,3 +90,27 @@ p {
 .special-box {
     border: 2px solid red;
 }
+
+.money-input {
+    margin-top: 50px;
+    margin-left: 45%;
+    margin-bottom: 100px;
+}
+
+input {
+    border: none;
+    background-color: transparent;
+    outline: none;
+    line-height: 1%;
+}
+
+hr {
+    width: 17%;
+    margin-right: 900px;
+}
+
+.button-resize {
+    line-height: 2%;
+    text-align: center;
+    padding-top: 100px;
+}
