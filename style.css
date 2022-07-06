@@ -2,4 +2,52 @@ body {
     font-family: 'Anton', sans-serif;
     font-family: 'Barlow Condensed', sans-serif;
     font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+
+.background-image {
+    background-image: url(images/donation15.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 150%;
+    height: 655px;
+    margin: 0;
+}
+
+div h1 {
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 0%;
+    margin-top: 0%;
+    color: white;
+
+}
+
+#text-indent {
+    text-indent: 2px;
+    margin-top: 0%;
+}
+
+#text-placements {
+    line-height: 100px;
+    text-align: center;
+    padding-top: 100px;
+
+
+}
+
+
+#text-adjustment {
+    text-align: center;
+    color: white;
+    font-weight: 300;
+
+}
+
+a {
+    text-decoration: none;
+    background-image: linear-gradient(red, rgb(100, 10, 10));
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 3px;
 }
